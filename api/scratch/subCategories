@@ -1,0 +1,57 @@
+[
+    {   
+        "id": "1",
+        "title": "Skirt",
+        "categoryId": "1",
+        "productId": "3"
+    },
+    {   
+        "id": "2",
+        "title": "Shoes",
+        "categoryId": "2",
+        "productId": "12"
+    },
+    {   
+        "id": "3",
+        "title": "Accesories",
+        "categoryId": "3",
+        "productId": "30"
+    },
+    {   
+        "id": "4",
+        "title": "Hat",
+        "categoryId": "1",
+        "productId": "5"
+    },
+    {   
+        "id": "5",
+        "title": "Coat",
+        "categoryId": "1",
+        "productId": "2"
+    },
+    {   
+        "id": "6",
+        "title": "Jacket",
+        "categoryId": "1",
+        "productId": "4"
+    },
+    {   
+        "id": "7",
+        "title": "Long Sleeve Shirt",
+        "categoryId": "1",
+        "productId": "6"
+    },
+    {   
+        "id": "8",
+        "title": "T-shirt",
+        "categoryId": "1",
+        "productId": "1"
+    },
+    {   
+        "id": "9",
+        "title": "Jeans",
+        "categoryId": "1",
+        "productId": "14"
+    }
+
+]

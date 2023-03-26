@@ -1,0 +1,75 @@
+[
+    {
+        "id":"1",
+        "title":"Polo T-Shirt", 
+        "oldPrice": "188", 
+        "price": "161" , 
+        "type": "featured", 
+        "isNew": true, 
+        "desc": "warm T-shirt", 
+        "img": "https://images.asos-media.com/products/polo-ralph-lauren-lounge-long-sleeve-t-shirt-in-green-with-chest-text-logo/203446192-1-green?$n_750w$&wid=750&hei=750&fit=crop", 
+        "img2": "https://images.asos-media.com/products/polo-ralph-lauren-lounge-t-shirt-in-olive-green-with-chest-text-logo/203445759-1-green?$n_750w$&wid=750&hei=750&fit=crop",
+        "subCatId" : "8"
+    },
+    {
+        "id":"2",
+        "title":"Coat", 
+        "oldPrice": "529", 
+        "price": "500", 
+        "type": "featured", 
+        "isNew": true, 
+        "desc": "warm TCoat", 
+        "img": "https://res.cloudinary.com/gimg1/image/upload/w_489,h_734,c_fill,f_auto,q_auto/v1/Pinko/Style/LOOK/1G18CPZ350-O28-AA01", 
+        "img2": "https://cdna.lystit.com/photos/giglio/233e5718/pinko-Fuchsia-Mantel.jpeg",
+        "subCatId" : "5"
+    },
+    {
+        "id":"3",
+        "title":"Skirt", 
+        "oldPrice": "210", 
+        "price": "99", 
+        "type": "trending", 
+        "isNew": true, 
+        "desc": "warm Skirt", 
+        "img": "https://www.twinset.com/dw/image/v2/BCKJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0893eae6/images/TwinSet/Images/Catalog/202TT2T56-00006-01.JPG", 
+        "img2": "https://www.twinset.com/dw/image/v2/BCKJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc40266f5/images/TwinSet/Images/Catalog/202TT2T56-00006-04.JPG",
+        "subCatId" : "1"
+    },
+    {
+        "id":"4",
+        "title":"Jacket", 
+        "oldPrice": "198", 
+        "price": "187", 
+        "type": "featured", 
+        "isNew": false, 
+        "desc": "warm jacket", 
+        "img": "https://images.asos-media.com/products/calvin-klein-crinkle-nylon-detatchable-hood-puffer-jacket-in-stone/200751683-1-stone?$n_750w$&wid=750&hei=750&fit=crop",
+        "subCatId" : "6"
+    },
+    {
+        "id":"5",
+        "title":"Hat", 
+        "oldPrice": "78", 
+        "price": "66", 
+        "type": "featured", 
+        "isNew": false, 
+        "desc": "warm Hat", 
+        "img": "https://media.karousell.com/media/photos/products/2022/7/18/ralph_lauren_bucket_hat_sm_1658130435_f5b68e00_progressive.jpg",
+        "subCatId" : "4"
+        },
+    {
+        "id":"6",
+        "title":"Long Sleeve Shirt", 
+        "oldPrice": "78", 
+        "price": "66", 
+        "type": "trending", 
+        "isNew": false, 
+        "desc": "warm shirt", 
+        "img": "https://media.nelly.com/i/nlyscandinavia/198861-0989_02?fmt=webp&qlt=default&w=469&h=625&sm=c",
+        "subCatId" : "7"
+    }
+    
+]
+
+
+
